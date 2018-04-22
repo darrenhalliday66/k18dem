@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">62cd1069086553007f44dabbee91c58b</sp_column>
+        <sp_widget display_value="HTML">8679ef89cb21120000f8d856634c9c4f</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-18 06:00:35</sys_created_on>
+        <sys_id>b7dd5069086553007f44dabbee91c587</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Home Title</sys_name>
+        <sys_package display_value="K18 SP Demo" source="x_snc_k18_sp_demo">506cd429086553007f44dabbee91c5d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="K18 SP Demo">506cd429086553007f44dabbee91c5d1</sys_scope>
+        <sys_update_name>sp_instance_b7dd5069086553007f44dabbee91c587</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-18 06:01:34</sys_updated_on>
+        <title>Home Title</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"html": {
+		"value": "<p>This is the home page for demo purposes</p>",
+		"displayValue": "<p>This is the home page for demo purposes</p>"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=b7dd5069086553007f44dabbee91c587"/>
+</record_update>

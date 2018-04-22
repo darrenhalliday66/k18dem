@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_widget">
+    <sp_widget action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <client_script><![CDATA[function() {
+  /* widget controller */
+  var c = this;
+}]]></client_script>
+        <controller_as>c</controller_as>
+        <css>.ptStyle {&#13;
+  color: $ptColor;&#13;
+  padding: 4px;&#13;
+  border: 1px solid $ptColor;&#13;
+}&#13;
+&#13;
+.thVarStyle {&#13;
+  color: $thColor;&#13;
+  padding: 4px;&#13;
+  border: 1px solid $thColor;&#13;
+}&#13;
+&#13;
+.styleOrder {&#13;
+  color: $p1;&#13;
+  padding: 4px;&#13;
+  border: 1px solid $p1;&#13;
+}</css>
+        <data_table>sp_instance</data_table>
+        <demo_data/>
+        <description/>
+        <docs/>
+        <field_list/>
+        <has_preview>true</has_preview>
+        <id>k18style</id>
+        <internal>false</internal>
+        <link/>
+        <name>K18 Style</name>
+        <option_schema/>
+        <public>true</public>
+        <roles/>
+        <script><![CDATA[(function() {
+  /* populate the 'data' object */
+  /* e.g., data.table = $sp.getValue('table'); */
+
+})();]]></script>
+        <servicenow>false</servicenow>
+        <sys_class_name>sp_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-18 06:12:20</sys_created_on>
+        <sys_id>59efd869086553007f44dabbee91c5d4</sys_id>
+        <sys_mod_count>29</sys_mod_count>
+        <sys_name>K18 Style</sys_name>
+        <sys_package display_value="K18 SP Demo" source="x_snc_k18_sp_demo">506cd429086553007f44dabbee91c5d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="K18 SP Demo">506cd429086553007f44dabbee91c5d1</sys_scope>
+        <sys_update_name>sp_widget_59efd869086553007f44dabbee91c5d4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-22 08:14:12</sys_updated_on>
+        <template><![CDATA[<div>
+  <ul>
+    <li>Widget is Blue</li>
+    <li>Page is Red</li>
+    <li>Theme is Orange</li>
+    <li>Portal variable is Green</li>
+    <li>Theme variable is Fuchsia</li>
+  </ul>
+  <table>
+    <tr>
+    <td>
+  	<p style="color:blue;border: 1px solid blue;padding: 4px">This has an in line style defined in the widget template </p>
+    </td>
+    </tr>
+    <tr>
+    <td>
+  	<p class="pgStyle">This has a page css class and style defined at the page level </p>
+    </td>
+    </tr>
+    <tr>
+    <td>
+  	<p class="thStyle">This has a theme css class and style defined at the theme level </p>
+    </td>
+    </tr>
+    <tr>
+    <td>
+      <p class="ptStyle">This has a portal color <u>variable</u> and style defined at the widget level </p>
+    </td>
+    </tr>
+    <tr>
+    <td>
+      <p class="thVarStyle">This has a theme color <u>variable</u> and style defined at the widget level </p>
+    </td>
+    </tr>
+    <tr>
+      <tr>
+    <td>
+  	<p class="styleOrder">This has a portal and a theme variable with green and fuchsia </p>
+    </td>
+    </tr>
+  </table>
+</div>]]></template>
+    </sp_widget>
+</record_update>

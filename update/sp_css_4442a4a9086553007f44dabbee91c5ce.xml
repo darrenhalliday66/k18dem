@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_css">
+    <sp_css action="INSERT_OR_UPDATE">
+        <css>.thStyle {&#13;
+  color: orange;&#13;
+  padding: 4px;&#13;
+  border: 1px solid orange;&#13;
+}&#13;
+&#13;
+</css>
+        <name>k18-style</name>
+        <sys_class_name>sp_css</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-18 06:19:50</sys_created_on>
+        <sys_id>4442a4a9086553007f44dabbee91c5ce</sys_id>
+        <sys_mod_count>35</sys_mod_count>
+        <sys_name>k18-style</sys_name>
+        <sys_package display_value="K18 SP Demo" source="x_snc_k18_sp_demo">506cd429086553007f44dabbee91c5d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="K18 SP Demo">506cd429086553007f44dabbee91c5d1</sys_scope>
+        <sys_update_name>sp_css_4442a4a9086553007f44dabbee91c5ce</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-22 07:54:03</sys_updated_on>
+    </sp_css>
+</record_update>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_theme">
+    <sp_theme action="INSERT_OR_UPDATE">
+        <css_variables>$thColor: #FF00FF;&#13;
+$p1: #FF00FF;</css_variables>
+        <footer/>
+        <footer_fixed>true</footer_fixed>
+        <header/>
+        <name>K18 Theme</name>
+        <navbar_fixed>true</navbar_fixed>
+        <sys_class_name>sp_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-18 06:19:19</sys_created_on>
+        <sys_id>f21264a9086553007f44dabbee91c5d1</sys_id>
+        <sys_mod_count>11</sys_mod_count>
+        <sys_name>K18 Theme</sys_name>
+        <sys_package display_value="K18 SP Demo" source="x_snc_k18_sp_demo">506cd429086553007f44dabbee91c5d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="K18 SP Demo">506cd429086553007f44dabbee91c5d1</sys_scope>
+        <sys_update_name>sp_theme_f21264a9086553007f44dabbee91c5d1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-22 08:10:33</sys_updated_on>
+    </sp_theme>
+</record_update>
