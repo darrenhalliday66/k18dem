@@ -22,14 +22,14 @@ $p1: green;</css_variables>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-04-18 05:56:04</sys_created_on>
         <sys_id>628cd829086553007f44dabbee91c529</sys_id>
-        <sys_mod_count>14</sys_mod_count>
+        <sys_mod_count>16</sys_mod_count>
         <sys_name>K18 Portal Demo</sys_name>
         <sys_package display_value="K18 SP Demo" source="x_snc_k18_sp_demo">506cd429086553007f44dabbee91c5d1</sys_package>
         <sys_policy/>
         <sys_scope display_value="K18 SP Demo">506cd429086553007f44dabbee91c5d1</sys_scope>
         <sys_update_name>sp_portal_628cd829086553007f44dabbee91c529</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-04-22 08:09:58</sys_updated_on>
+        <sys_updated_on>2018-04-22 18:22:25</sys_updated_on>
         <theme display_value="K18 Theme">f21264a9086553007f44dabbee91c5d1</theme>
         <title>K18 Portal Demo</title>
         <url_suffix>dem</url_suffix>
