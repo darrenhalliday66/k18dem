@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <css/>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <id>k18_widget_demo</id>
+        <internal>false</internal>
+        <public>false</public>
+        <roles/>
+        <short_description>K18 - Demo baseline widgets</short_description>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-24 08:08:38</sys_created_on>
+        <sys_id>c0a43f9b08ad93007f44dabbee91c510</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>k18_widget_demo</sys_name>
+        <sys_package display_value="K18 SP Demo" source="x_snc_k18_sp_demo">506cd429086553007f44dabbee91c5d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="K18 SP Demo">506cd429086553007f44dabbee91c5d1</sys_scope>
+        <sys_update_name>sp_page_c0a43f9b08ad93007f44dabbee91c510</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-24 08:08:54</sys_updated_on>
+        <title>K18 Widget Demo</title>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=c0a43f9b08ad93007f44dabbee91c510"/>
+</record_update>

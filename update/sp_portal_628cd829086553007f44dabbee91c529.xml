@@ -6,13 +6,13 @@ $p1: green;</css_variables>
         <default>false</default>
         <homepage display_value="home">8a0d5c29086553007f44dabbee91c5a8</homepage>
         <icon/>
-        <kb_knowledge_base/>
+        <kb_knowledge_base display_value="IT">a7e8a78bff0221009b20ffffffffff17</kb_knowledge_base>
         <kb_knowledge_page/>
         <login_page/>
         <logo/>
         <notfound_page display_value="404">3c2c9063cb11020000f8d856634c9c1f</notfound_page>
         <quick_start_config/>
-        <sc_catalog/>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
         <sc_catalog_page/>
         <sc_category_page/>
         <sp_chat_queue/>
@@ -22,14 +22,14 @@ $p1: green;</css_variables>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-04-18 05:56:04</sys_created_on>
         <sys_id>628cd829086553007f44dabbee91c529</sys_id>
-        <sys_mod_count>16</sys_mod_count>
+        <sys_mod_count>20</sys_mod_count>
         <sys_name>K18 Portal Demo</sys_name>
         <sys_package display_value="K18 SP Demo" source="x_snc_k18_sp_demo">506cd429086553007f44dabbee91c5d1</sys_package>
         <sys_policy/>
         <sys_scope display_value="K18 SP Demo">506cd429086553007f44dabbee91c5d1</sys_scope>
         <sys_update_name>sp_portal_628cd829086553007f44dabbee91c529</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-04-22 18:22:25</sys_updated_on>
+        <sys_updated_on>2018-04-24 08:57:42</sys_updated_on>
         <theme display_value="K18 Theme">f21264a9086553007f44dabbee91c5d1</theme>
         <title>K18 Portal Demo</title>
         <url_suffix>dem</url_suffix>
